@@ -6,10 +6,10 @@
         width="48"
         height="48"
         />
-        <br /><strong>Discord.js</strong>
+        <br /><strong>OpenAI GPT</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple user interface for OpenAI with a dropdown menu for my prebuild prompt generation templates. 
+      <p align="center">A simple user interface for OpenAI with a dropdown menu for prebuilt prompt generation templates. 
       </p>
      </td>
    </tr>
