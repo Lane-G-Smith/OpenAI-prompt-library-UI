@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
-        <img     src=""
+        <img     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/120px-ChatGPT_logo.svg.png"
         width="48"
         height="48"
         />
