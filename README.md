@@ -1,4 +1,4 @@
-<h1 align="center">OpenAI-prompt-library-ui</h1>
+<h1 align="center">OpenAI-prompt-library-user-interface</h1>
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
